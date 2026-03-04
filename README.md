@@ -1,4 +1,4 @@
-# Yash_Store_Analysis (Interactive Dashboard creation using MS Excel)
+# Yash_Store_Analysis (MS-Excel Dashboard)
 ## Project Objective
 The Yash Store wants to create an annual sales report for 2025. So that, the owner of the Yash store can understand their customers and grow more sales in 2026.
 
